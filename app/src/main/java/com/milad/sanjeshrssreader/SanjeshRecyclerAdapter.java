@@ -22,8 +22,6 @@ public class SanjeshRecyclerAdapter extends RecyclerView.Adapter<SanjeshRecycler
     this.SanjeshNews = news;
   }
 
-
-
   @NonNull
   @Override
   public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
@@ -34,10 +32,10 @@ public class SanjeshRecyclerAdapter extends RecyclerView.Adapter<SanjeshRecycler
 
   @Override
   public void onBindViewHolder(@NonNull final ViewHolder holder, final int position) {
-    holder.txt_title.setText(SanjeshNews.get(position).getTitle());
-    holder.txt_date.setText(SanjeshNews.get(position).getPubDate());
+    holder.txtTitle.setText(SanjeshNews.get(position).getTitle());
+    holder.txtDate.setText(SanjeshNews.get(position).getPubDate());
 
-    holder.parent_row.setOnClickListener(new View.OnClickListener() {
+    holder.parentRow.setOnClickListener(new View.OnClickListener() {
       @Override
       public void onClick(View view) {
         Intent intent = new Intent(view.getContext(), SanjeshWebviewActivity.class);
@@ -54,13 +52,13 @@ public class SanjeshRecyclerAdapter extends RecyclerView.Adapter<SanjeshRecycler
   }
 
   public static class ViewHolder extends RecyclerView.ViewHolder {
-    TextView txt_title, txt_date, txt_stamp;
-    CardView parent_row;
+    TextView txtTitle, txtDate;
+    CardView parentRow;
     public ViewHolder(@NonNull View itemView) {
       super(itemView);
-      txt_title = itemView.findViewById(R.id.txt_title);
-      txt_date = itemView.findViewById(R.id.txt_date);
-      parent_row = itemView.findViewById(R.id.parent_row);
+      txtTitle = itemView.findViewById(R.id.txt_title);
+      txtDate = itemView.findViewById(R.id.txt_date);
+      parentRow = itemView.findViewById(R.id.parent_row);
     }
   }
 }
