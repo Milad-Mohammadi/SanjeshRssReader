@@ -37,7 +37,6 @@ public class SanjeshRecyclerAdapter extends RecyclerView.Adapter<SanjeshRecycler
     holder.txt_title.setText(SanjeshNews.get(position).getTitle());
     holder.txt_date.setText(SanjeshNews.get(position).getPubDate());
 
-
     holder.parent_row.setOnClickListener(new View.OnClickListener() {
       @Override
       public void onClick(View view) {
@@ -64,5 +63,4 @@ public class SanjeshRecyclerAdapter extends RecyclerView.Adapter<SanjeshRecycler
       parent_row = itemView.findViewById(R.id.parent_row);
     }
   }
-
 }

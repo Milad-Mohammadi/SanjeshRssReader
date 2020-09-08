@@ -52,7 +52,6 @@ public class MainActivity extends AppCompatActivity {
 
           JSONArray newsArray = channelObject.getJSONArray("item");
           for (int i = 0; i < newsArray.length(); i++) {
-
             SanjeshNews sanjeshNews = new SanjeshNews();
             JSONObject newsObject = newsArray.getJSONObject(i);
             sanjeshNews.setTitle(newsObject.getString("title"));
@@ -77,5 +76,4 @@ public class MainActivity extends AppCompatActivity {
     });
     requestQueue.add(stringRequest);
   }
-
 }

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.smart-fun:XmlToJson:1.4.5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/298154cb9af49c456326a8c2f7e338c1/jetified-XmlToJson-1.4.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/298154cb9af49c456326a8c2f7e338c1/jetified-XmlToJson-1.4.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/298154cb9af49c456326a8c2f7e338c1/jetified-XmlToJson-1.4.5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.smart-fun/XmlToJson/1.4.5/5c2b50afe6f2d044874fc5521cbd785f00dae8bb/XmlToJson-1.4.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

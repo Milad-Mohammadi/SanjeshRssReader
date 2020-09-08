@@ -22,7 +22,6 @@ public class SanjeshWebviewActivity extends AppCompatActivity {
   }
 
   private void loadPage() {
-
     Intent intent = getIntent();
     Bundle bundle = intent.getExtras();
     if (intent.hasExtra("link") && intent.hasExtra("title")) {

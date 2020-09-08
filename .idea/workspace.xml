@@ -5,14 +5,24 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1896856a-461b-4a09-bf33-57cf0d038e91" name="Default Changelist" comment="" />
+    <list default="true" id="1896856a-461b-4a09-bf33-57cf0d038e91" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/milad/sanjeshrssreader/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/milad/sanjeshrssreader/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/milad/sanjeshrssreader/SanjeshNews.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/milad/sanjeshrssreader/SanjeshNews.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/milad/sanjeshrssreader/SanjeshRecyclerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/milad/sanjeshrssreader/SanjeshRecyclerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/milad/sanjeshrssreader/SanjeshWebviewActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/milad/sanjeshrssreader/SanjeshWebviewActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_19_4.4_" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="GVVDU18928005807" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -34,7 +44,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hDXBzv68kIdBtJU4bKwNulgctR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -99,7 +113,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -196,5 +210,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="349" y="167" key="AndroidCreateResourceFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1599548768340" />
+    <state width="1491" height="160" key="GridCell.Tab.0.bottom" timestamp="1599550848907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="160" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599550848907" />
+    <state width="1491" height="160" key="GridCell.Tab.0.center" timestamp="1599550848906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="160" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599550848906" />
+    <state width="1491" height="160" key="GridCell.Tab.0.left" timestamp="1599550848905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="160" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599550848905" />
+    <state width="1491" height="160" key="GridCell.Tab.0.right" timestamp="1599550848906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="160" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599550848906" />
   </component>
 </project>

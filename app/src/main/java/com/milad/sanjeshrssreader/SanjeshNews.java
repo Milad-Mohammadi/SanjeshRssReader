@@ -5,13 +5,6 @@ public class SanjeshNews {
   private String pubDate;
   private String link;
 
-  public SanjeshNews() {}
-  public SanjeshNews(String title, String pubDate, String link) {
-    this.title = title;
-    this.pubDate = pubDate;
-    this.link = link;
-  }
-
   public String getTitle() {
     return title;
   }
