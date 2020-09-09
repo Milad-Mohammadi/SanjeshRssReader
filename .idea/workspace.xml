@@ -10,15 +10,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1896856a-461b-4a09-bf33-57cf0d038e91" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/milad/sanjeshrssreader/SanjeshRecyclerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/milad/sanjeshrssreader/SanjeshRecyclerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="GVVDU18928005807" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_19_4.4_" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -52,12 +57,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="BundleExportedModule" value="app" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ScreenshotViewer.SavePath" value="$USER_HOME$/Desktop" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../sdk/android-sdk-essential-26.0.1" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/layout" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="project.structure.last.edited" value="Dependencies" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -188,7 +195,30 @@
       <option name="presentableId" value="Default" />
       <updated>1599546505090</updated>
     </task>
+    <task id="LOCAL-00001" summary="update adapter">
+      <created>1599552207624</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599552207625</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update adapter" />
+    <option name="LAST_COMMIT_MESSAGE" value="update adapter" />
   </component>
   <component name="WindowStateProjectService">
     <state x="286" y="144" key="#PSD" timestamp="1599549174019">
@@ -207,25 +237,37 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="349" y="167" key="AndroidCreateResourceFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1599548768340" />
-    <state x="419" y="9" key="CommitChangelistDialog2" timestamp="1599552187742">
+    <state x="419" y="9" key="CommitChangelistDialog2" timestamp="1599552206811">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="419" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1599552187742" />
-    <state width="1491" height="160" key="GridCell.Tab.0.bottom" timestamp="1599550848907">
+    <state x="419" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1599552206811" />
+    <state x="549" y="152" key="FileChooserDialogImpl" timestamp="1599572473081">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="160" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599550848907" />
-    <state width="1491" height="160" key="GridCell.Tab.0.center" timestamp="1599550848906">
+    <state x="549" y="152" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599572473081" />
+    <state width="1491" height="202" key="GridCell.Tab.0.bottom" timestamp="1599573010280">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="160" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599550848906" />
-    <state width="1491" height="160" key="GridCell.Tab.0.left" timestamp="1599550848905">
+    <state width="1491" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599573010280" />
+    <state width="1491" height="202" key="GridCell.Tab.0.center" timestamp="1599573010280">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="160" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599550848905" />
-    <state width="1491" height="160" key="GridCell.Tab.0.right" timestamp="1599550848906">
+    <state width="1491" height="202" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599573010280" />
+    <state width="1491" height="202" key="GridCell.Tab.0.left" timestamp="1599573010278">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="160" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599550848906" />
+    <state width="1491" height="202" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599573010278" />
+    <state width="1491" height="202" key="GridCell.Tab.0.right" timestamp="1599573010280">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="202" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599573010280" />
+    <state x="206" y="0" key="ScreenshotViewer.Dimensions" timestamp="1599572473530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="206" y="0" key="ScreenshotViewer.Dimensions/0.0.1536.824@0.0.1536.824" timestamp="1599572473530" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1599552210415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599552210415" />
   </component>
 </project>
